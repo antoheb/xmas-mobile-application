@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "360500875908",
+    "firebase_url": "https://xmaslist-ab1fa.firebaseio.com",
+    "project_id": "xmaslist-ab1fa",
+    "storage_bucket": "xmaslist-ab1fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360500875908:android:2085dcc2289c85c71fa8d1",
+        "android_client_info": {
+          "package_name": "com.hebert.xmaslist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360500875908-1920p9rjhplp8u80c4ppo9btq8ju69en.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hebert.xmaslist",
+            "certificate_hash": "96220cb4c99308d57fc316c1155b9cf835bdf479"
+          }
+        },
+        {
+          "client_id": "360500875908-9apvnnn6svi0jstvedgav0hhjlffnosu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp1xrtjEVnwxCgUCBDW3xZMBQW1_dLm5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360500875908-9apvnnn6svi0jstvedgav0hhjlffnosu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

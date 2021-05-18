@@ -1,0 +1,24 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="ChristmasAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="DefaultAppTheme" parent = "ChristmasAppTheme">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#03A9F4</item>
+        <item name="colorPrimaryDark">#0782E4</item>
+        <item name="colorAccent">#E4D128</item>
+    </style>
+
+    <style name="BirthdayAppTheme" parent = "ChristmasAppTheme">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#994FE3</item>
+        <item name="colorPrimaryDark">#6232E6</item>
+        <item name="colorAccent">#74D0DC</item>
+    </style>
+
+</resources>
